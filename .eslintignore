@@ -1,0 +1,12 @@
+.publish/*
+dist/*
+example/dist/*
+lib/*
+node_modules/**
+.yarn/*
+.pnp.*
+
+.yarn/releases/*
+.yarn/cache/*
+.yarn/plugins/*
+.yarn/sdks/*

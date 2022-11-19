@@ -1,0 +1,14 @@
+node_modules/**
+test/*
+.github/*
+.eslintrc
+.prettierrc
+tsconfig.json
+rollup.config.js
+README.md
+example
+.storybook
+.vscode
+src
+webpack.config.js
+.yarn/*

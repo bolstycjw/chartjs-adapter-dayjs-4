@@ -1,0 +1,13 @@
+*.log
+.DS_Store
+node_modules
+dist
+
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+
+*.pnp
+
+.vscode/
